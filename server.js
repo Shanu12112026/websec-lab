@@ -1,4 +1,4 @@
-// ⚠️  INTENTIONALLY VULNERABLE — for security training only. Never deploy publicly.
+
 const express = require("express");
 const crypto = require("crypto");
 

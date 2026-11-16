@@ -1,0 +1,12 @@
+{
+  "name": "websec-lab",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable app for practicing web security review (XSS, CORS, CSRF). DO NOT DEPLOY.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
